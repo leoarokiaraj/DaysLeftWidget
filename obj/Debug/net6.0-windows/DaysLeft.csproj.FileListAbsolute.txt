@@ -1,0 +1,17 @@
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\DaysLeft.exe
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\DaysLeft.deps.json
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\DaysLeft.runtimeconfig.json
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\DaysLeft.dll
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\ref\DaysLeft.dll
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Debug\net6.0-windows\DaysLeft.pdb
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.csproj.AssemblyReference.cache
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.csproj.GenerateResource.cache
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.AssemblyInfoInputs.cache
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.AssemblyInfo.cs
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.csproj.CoreCompileInputs.cache
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.dll
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\ref\DaysLeft.dll
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.pdb
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.genruntimeconfig.cache
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\obj\Debug\net6.0-windows\DaysLeft.DaysLeft.resources

@@ -1,0 +1,5 @@
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Release\net6.0-windows\publish\DaysLeft.exe
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Release\net6.0-windows\publish\DaysLeft.dll
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Release\net6.0-windows\publish\DaysLeft.deps.json
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Release\net6.0-windows\publish\DaysLeft.runtimeconfig.json
+C:\@MyData\Leo\Code\WindowsWidget\DaysLeft\DaysLeft\bin\Release\net6.0-windows\publish\DaysLeft.pdb
